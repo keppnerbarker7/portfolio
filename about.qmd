@@ -8,10 +8,10 @@ title: "About Me"
 
 <h1>Your Name</h1>
 
-<a href="https://linkedin.com/in/your-profile" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://linkedin.com/in/keppnerbarker" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
-<a href="https://github.com/your-username" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://github.com/keppnerbarker7" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-github"></i> GitHub
 </a>
 
@@ -19,11 +19,11 @@ title: "About Me"
 
 ## Background
 
-Write a compelling narrative about your background, education, and what drives your passion for product management. This is your chance to tell your story and connect with potential employers or collaborators.
+Keppner Barker is driven by a passion for creating meaningful products and experiences that bring people together. With a background spanning entrepreneurship, strategy internships, and community-building projects, he thrives at the intersection of problem-solving and storytelling. His love for the outdoors, exploration, and pushing limits fuels his curiosity and creativity, while his people-first mindset shapes his approach to product management—building not just solutions, but opportunities for others to grow and connect.
 
 ### Education
 
-- **Degree Name**, University Name (Year)
+- **BS in Strategic Management**, Brigham Young University (2027)
 - **Relevant Coursework**: List key courses related to product management, analytics, or business
 - **Academic Achievements**: Honor societies, relevant projects, or awards
 
