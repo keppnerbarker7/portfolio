@@ -1,5 +1,4 @@
 {
-  "buildCommand": "quarto render",
-  "outputDirectory": "_site",
-  "installCommand": "curl -LO https://quarto.org/download/latest/quarto-linux-amd64.deb && sudo dpkg -i quarto-linux-amd64.deb"
+  "buildCommand": "wget -qO- https://quarto.org/download/latest/quarto-linux-amd64.tar.gz | tar -xzf - && export PATH=$PWD/quarto-1.5.57/bin:$PATH && quarto render",
+  "outputDirectory": "_site"
 }
